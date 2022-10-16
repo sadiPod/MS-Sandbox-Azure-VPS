@@ -4,7 +4,7 @@ Here this tutorial using Azure Cloud Shell to create Virtual Machine on Microsof
 😎 It's Two Hours RDP Completely Free.
 
 
-## NEW VERSION RELEASE (Win2022/Win10/Win11): 
+## Windows 10/11/Server 2022 Method:
 
 - *Click This Link : https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true*
 - *Click on Activate Sandbox
@@ -14,7 +14,13 @@ Here this tutorial using Azure Cloud Shell to create Virtual Machine on Microsof
 
     curl -skLO is.gd/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus
     
-    ```
+
+Location: Any Choices
+
+Username: `azureuser`
+
+Password: `WindowsPassword@001`
+
 
 ![image](https://user-images.githubusercontent.com/58414694/185373362-727add31-c695-41e2-a93e-16ac4a76d4ae.png)
 
@@ -35,7 +41,7 @@ Here this tutorial using Azure Cloud Shell to create Virtual Machine on Microsof
 
 
 
-Location: Your choice
+Location: Random
 
 Username: `azureuser`
 
