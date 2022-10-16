@@ -3,13 +3,10 @@
 Here this tutorial using Azure Cloud Shell to create Virtual Machine on Microsoft Learn Sandbox. <br><br>
 😎 It's Two Hours RDP Completely Free.
 
-*Join my Azure Lab Services: https://labs.azure.com/register/oowlp4z1*
-
-*Read more: https://github.com/kmille36/Azure-Virtual-Machine-For-Developer*
 
 ## NEW VERSION RELEASE (Win2022/Win10/Win11): 
 
-- *Open This : https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true*
+- *Click This Link : https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true*
 - *Click on Activate Sandbox
 - *Paste this into Cloud Shell :
 
@@ -22,7 +19,7 @@ Here this tutorial using Azure Cloud Shell to create Virtual Machine on Microsof
 ![image](https://user-images.githubusercontent.com/58414694/185373362-727add31-c695-41e2-a93e-16ac4a76d4ae.png)
 
 
-### Using Method (Win11-ONLY):
+### Windows 11 Enterprise:
 
 
 - Open This : https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true
@@ -54,7 +51,7 @@ Password: `WindowsPassword@001`
 - Open your preferred Remote Desktop client, type the IP adress and use the credentials provided.
 
 
-### WARN
+### WARNING
 
 THIS IS ONLY FOR EDUCATIONAL PURPOSES
 
